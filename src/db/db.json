@@ -1,0 +1,17 @@
+{
+	"books": [
+		{
+			"wiedzmin1": {
+				"title": "Ostatnie życzenie. Wiedźmin. Tom 1",
+				"price": 35,
+				"pages": 332,
+				"author": "Sapkowski Andrzej",
+				"released": "06-10-2014",
+				"publisher": "SUPERNOWA"
+			},
+			"wiedzmin2": {
+				"title": "Tom 2 lorem"
+			}
+		}
+	]
+}
