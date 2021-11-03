@@ -1,17 +1,84 @@
 {
 	"books": [
 		{
-			"wiedzmin1": {
-				"title": "Ostatnie życzenie. Wiedźmin. Tom 1",
-				"price": 35,
-				"pages": 332,
-				"author": "Sapkowski Andrzej",
-				"released": "06-10-2014",
-				"publisher": "SUPERNOWA"
-			},
-			"wiedzmin2": {
-				"title": "Tom 2 lorem"
-			}
+			"id": "wiedzmin1",
+			"title": "Wiedźmin. Tom 1",
+			"price": 35,
+			"pages": 332,
+			"author": "Sapkowski Andrzej",
+			"released": "06-10-2014",
+			"publisher": "SUPERNOWA",
+			"imgPath": "public/assets/images/wiedzmin-tom-1.jpg"
+		},
+		{
+			"id": "wiedzmin2",
+			"title": "Wiedźmin. Tom 2",
+			"price": 36,
+			"pages": 199,
+			"author": "Sapkowski Andrzej",
+			"released": "06-10-2015",
+			"publisher": "SUPERNOWA",
+			"imgPath": "./src/assets/images/wiedzmin-tom-2.jpg"
+		},
+		{
+			"id": "wiedzmin3",
+			"title": "Wiedźmin. Tom 3",
+			"price": 37,
+			"pages": 452,
+			"author": "Sapkowski Andrzej",
+			"released": "06-10-2016",
+			"publisher": "SUPERNOWA",
+			"imgPath": "./src/assets/images/wiedzmin-tom-3.jpg"
+		},
+		{
+			"id": "wiedzmin4",
+			"title": "Wiedźmin. Tom 4",
+			"price": 38,
+			"pages": 372,
+			"author": "Sapkowski Andrzej",
+			"released": "06-10-2017",
+			"publisher": "SUPERNOWA",
+			"imgPath": "./src/assets/images/wiedzmin-tom-4.jpg"
+		},
+		{
+			"id": "wiedzmin5",
+			"title": "Wiedźmin. Tom 5",
+			"price": 39,
+			"pages": 356,
+			"author": "Sapkowski Andrzej",
+			"released": "06-10-2018",
+			"publisher": "SUPERNOWA",
+			"imgPath": "./src/assets/images/wiedzmin-tom-5.jpg"
+		},
+		{
+			"id": "wiedzmin6",
+			"title": "Wiedźmin. Tom 6",
+			"price": 40,
+			"pages": 632,
+			"author": "Sapkowski Andrzej",
+			"released": "06-10-2019",
+			"publisher": "SUPERNOWA",
+			"imgPath": "./src/assets/images/wiedzmin-tom-6.jpg"
+		},
+		{
+			"id": "wiedzmin7",
+			"title": "Wiedźmin. Tom 7",
+			"price": 42,
+			"pages": 242,
+			"author": "Sapkowski Andrzej",
+			"released": "06-10-2020",
+			"publisher": "SUPERNOWA",
+			"imgPath": "./src/assets/images/wiedzmin-tom-7.jpg"
+		},
+		{
+			"id": "wiedzmin8",
+			"title": "Wiedźmin. Tom 8",
+			"price": 48,
+			"pages": 427,
+			"author": "Sapkowski Andrzej",
+			"released": "06-10-2021",
+			"publisher": "SUPERNOWA",
+			"imgPath": "./src/assets/images/wiedzmin-tom-8.jpg"
 		}
 	]
 }
